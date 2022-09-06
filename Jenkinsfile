@@ -4,7 +4,7 @@ pipeline {
 
        stage('cloning from git') {
             steps {
-            git branch: 'master', url: 'https://github.com/gazgeek/springboot-helloworld.git'
+            git branch: 'master', url: 'https://github.com/gagan4491/springboot-helloworld-war.git'
 
                 //
             }
