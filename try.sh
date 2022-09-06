@@ -3,4 +3,5 @@ sudo su
 
 cd /usr/share/tomcat
 ls -la
+ls
 
